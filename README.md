@@ -79,8 +79,8 @@ To analyze and model salary data for Data Science roles across the world. The go
 
 ## 📷 Sample Visualizations
 
-> ![Salary Distribution](assets/salary_dist.png)
-> ![Experience vs Salary](assets/exp_vs_salary.png)
+> ![Salary Distribution](images/salary_dist.png.png)
+> ![Experience vs Salary](images/exp_vs_salary.png)
 
 ---
 
